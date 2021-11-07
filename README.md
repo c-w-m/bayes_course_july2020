@@ -1,4 +1,5 @@
 # Bayesian Computing Course
+### github [bayes_course_july2020](https://github.com/fonnesbeck/bayes_course_july2020)
 
 Material for course on Bayesian Computation
 
